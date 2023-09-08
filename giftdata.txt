@@ -1,0 +1,5 @@
+car door door door door engine 1800 wheel 250 Ocean wheel 250 Ocean wheel 300 Ocean wheel 100 RotiSRL 
+scooter bikeframe engine 2000 wheel 1000 Ocean wheel 200 Ocean 
+scooter bikeframe engine 1900 wheel 1500 Ocean wheel 1500 Ocean 
+pc case type low motherboard distributor Intel videocard ramsize 16 name Amd processor frequency 3.8 distributor Intel 
+pc case type low motherboard distributor Intel processor frequency 3.7 distributor Intel videocard ramsize 16 name Nvidia 

@@ -1,0 +1,16 @@
+door
+door
+door
+door
+wheel 1500 Ocean
+wheel 1500 Ocean
+wheel 1500 Ocean
+wheel 1500 Ocean
+engine 1500
+case low
+case low
+case low
+case low
+motherboard AMD
+engine 1800
+motherboard AMD

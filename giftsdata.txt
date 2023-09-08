@@ -1,0 +1,2 @@
+laptop distributor Intel frequency 4.7 distributor Intel ramsize  name AMD 
+laptop distributor AMD frequency 3.8 distributor AMD ramsize  name AMD 

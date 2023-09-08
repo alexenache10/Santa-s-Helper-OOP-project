@@ -1,0 +1,5 @@
+0 Bucuresti Viilor 10
+2 Buzau Clinceni 22
+1 Cojasca Nicolaesti 10
+0 Buzau Buftea 10
+3 Bucuresti Principala 20
